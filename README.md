@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonTaeYouL)](https://github.com/SoonTaeYouL/github-readme-stats)
 <!--
 **SoonTaeYouL/SoonTaeYouL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
