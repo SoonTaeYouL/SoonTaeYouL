@@ -1,5 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoonTaeYouL&langs_count=8)](https://github.com/SoonTaeYouL/github-readme-stats)
-![TaeYoul's github stats](https://github-readme-stats.vercel.app/api?username=SoonTaeYouL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soontaeyoul&langs_count=8&cache_seconds=86400)](https://github.com/soontaeyoul)
+
+![TaeYoul's github stats](https://github-readme-stats.vercel.app/api?username=soontaeyoul&cache_seconds=86400)
 <!--
 **SoonTaeYouL/SoonTaeYouL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
