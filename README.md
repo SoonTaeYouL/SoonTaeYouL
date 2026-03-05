@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soontaeyoul&langs_count=8&cache_seconds=86400)](https://github.com/soontaeyoul)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soontaeyoul&langs_count=8&cache_seconds=86400)](https://github.com/SoonTaeYouL)
 
 ![TaeYoul's github stats](https://github-readme-stats.vercel.app/api?username=soontaeyoul&cache_seconds=86400)
 <!--
