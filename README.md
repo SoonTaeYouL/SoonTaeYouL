@@ -1,4 +1,5 @@
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoonTaeYouL&theme=github)
+<!--
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SoonTaeYouL&theme=github) -->
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SoonTaeYouL&show_icons=true)
 
